@@ -1,0 +1,3 @@
+/home/nvidia/Documents/0-cv-hello/build/CMakeFiles/edit_cache.dir
+/home/nvidia/Documents/0-cv-hello/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Documents/0-cv-hello/build/CMakeFiles/cv_hello.dir
